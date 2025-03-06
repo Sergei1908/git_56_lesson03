@@ -20,6 +20,7 @@ li {
   margin: 0;
   padding: 0;
 }
+
 #root {
   display: flex;
   flex-direction: column;
@@ -28,4 +29,9 @@ li {
   min-height: 100%;
   background: rgb(191, 144, 206);
   padding: 30px;
+}
+
+h1 {
+  color: blanchedalmond;
+  font-size: 60px;
 }
